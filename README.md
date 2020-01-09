@@ -8,10 +8,16 @@ The goal of this analysis is to gain a deeper understanding of variables that af
 
 # Summary and Links
 
-Side Deck
+Side Deck 
 
 Data Sources 
-
+       All-time Athletics - http://www.alltime-athletics.com/m_100ok.htm
+			 
 Notebooks
+				Technical Notebook
+				EDA and Hypothesis 1
+				Hypothesis 2
 
 Python Files 
+					Functions
+					Data Prep
