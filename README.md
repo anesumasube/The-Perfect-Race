@@ -1,4 +1,4 @@
-# The Perfect Race: Effects of age and wind in Men' s fastest 100m races
+# The Perfect Race: Effects of age and wind on Men' s fastest 100m races
 
 ### Contributors: *Anesu Masube and Aaron Childress*
 
