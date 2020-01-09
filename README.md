@@ -8,16 +8,21 @@ The goal of this analysis is to gain a deeper understanding of variables that af
 
 # Summary and Links
 
-Side Deck 
+Side Deck -[The Perfect Race](https://github.com/achildress83/The-Perfect-Race/blob/master/The%20Perfect%20Race.ipynb)
 
 Data Source
 -[All-time Athletics](http://www.alltime-athletics.com/m_100ok.htm)
 			 
-Notebooks 
+Notebooks
+
 -Technical Notebook
+
 -EDA and Hypothesis 1
+
 -Hypothesis 2
 
-Python Files  
+Python Files 
+
 -Functions
+
 -Data Prep
