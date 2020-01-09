@@ -10,12 +10,13 @@ The goal of this analysis is to gain a deeper understanding of variables that af
 
 Side Deck 
 
-Data Sources 
+Data Source:
+
        All-time Athletics - http://www.alltime-athletics.com/m_100ok.htm
 			 
 Notebooks:  
 				
-         Technical Notebook
+        Technical Notebook
 	 EDA and Hypothesis 1
 	 Hypothesis 2
 
