@@ -1,6 +1,6 @@
 # The Perfect Race: Effects of age and wind in Men' s fastest 100m races
 
-Contributors: Anesu Masube and Aaron Childress
+### Contributors: *Anesu Masube and Aaron Childress*
 
 # Goals
 
@@ -20,7 +20,7 @@ The goal of this analysis is to gain a deeper understanding of variables that af
 
 -[EDA and Hypothesis 1](https://github.com/achildress83/The-Perfect-Race/blob/master/winning_times.ipynb)
 
--Hypothesis 2
+-[Hypothesis 2] (https://github.com/achildress83/The-Perfect-Race/blob/master/Tail_Wind%20Notebook.ipynb)
 
 ### Python Files 
 
