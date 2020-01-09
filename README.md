@@ -13,11 +13,13 @@ Side Deck
 Data Sources 
        All-time Athletics - http://www.alltime-athletics.com/m_100ok.htm
 			 
-Notebooks
-				Technical Notebook
-				EDA and Hypothesis 1
-				Hypothesis 2
+Notebooks:  
+				
+         Technical Notebook
+	 EDA and Hypothesis 1
+	 Hypothesis 2
 
-Python Files 
-					Functions
-					Data Prep
+Python Files:  
+
+	     Functions
+	     Data Prep
