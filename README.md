@@ -4,7 +4,7 @@
 
 # Goals
 
-The goal of this analysis is to gain a deeper understanding of variables that affect achieving the fastest times in men's sprints with a case study of over 3000 of the fastest times recorded since 1964 for 100m Men's races. We tested whether wind and age have any effect on achieving the fastest times.
+The goal of this analysis is to gain a deeper understanding of variables that affect achieving the fastest times in men's sprints with a case study of over 3000 of the fastest times recorded since 1964 for 100m Men's races. We tested the type of effect wind and age have on achieving the fastest times.
 
 # Summary and Links
 
