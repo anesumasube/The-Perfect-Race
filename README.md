@@ -9,7 +9,7 @@ The goal of this analysis is to gain a deeper understanding of variables that af
 # Summary and Links
 
 ### Side Deck 
-- [The Perfect Race](https://github.com/achildress83/The-Perfect-Race/blob/master/the_perfect_race.pdf)
+-[The Perfect Race](https://github.com/achildress83/The-Perfect-Race/blob/master/the_perfect_race.pdf)
 
 ### Data Source
 -[All-time Athletics](http://www.alltime-athletics.com/m_100ok.htm)
